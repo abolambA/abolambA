@@ -11,6 +11,7 @@
 [![Organic Vision](https://img.shields.io/badge/Organic_Vision-ovm.ae-10b981?style=for-the-badge&logoColor=white)](https://ovm.ae)
 [![SpeedCubeHub](https://img.shields.io/badge/SpeedCubeHub-Store-f59e0b?style=for-the-badge&logo=shopify&logoColor=white)](https://speedcubehub.store)
 [![YouTube](https://img.shields.io/badge/NS--Cubing-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@NS-Cubing)
+[![Google Dev](https://img.shields.io/badge/Google-Developer_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/111775667214271682823)
 [![Email](https://img.shields.io/badge/Email-nihadalsufe@gmail.com-f43f5e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nihadalsufe@gmail.com)
 
 </div>
@@ -73,7 +74,7 @@ Premium speedcubing e-commerce brand for the Middle East and beyond. Every produ
 | 🥇 | **1st Place · AED 5,000 Prize** | UAE AI National Championship — Rubik's Cube Level 2, STEAM Category | UAE Ministry of Education · TDRA · ICTFUND | 2025 |
 | 🥈 | **2nd Place — Teens Track** | Safe AI Cup 2026 — Lumi (Adaptive AI Learning) | Safe AI Cup · RNS · Global Innovation and Entrepreneurship | 2026 |
 | 🥇 | **Gold Medal — Open Category** | Innovation Nation 2026 — GreenSteps (AI Sustainability) | Robotna (Jordan) · Arab Regional Level | 2026 |
-| 🎖 | **Certificate of Appreciation** | AI National Championship 2024–2025 | UAE Ministry of Education — signed by Acting Asst. Undersecretary | 2025 |
+| 🎖 | **Certificate of Appreciation** | AI National Championship 2024-2025 | UAE Ministry of Education — signed by Acting Asst. Undersecretary | 2025 |
 | 🚀 | **Participant** | UAE InnovAIte Hackathon — #UAEInnovAIteHackathon | National Program for Coders · UAE AI Office | 2026 |
 | 🖥 | **Participant — Mobile Apps and IoT** | AUS School Computing Competition (ASCC-2026) | American University of Sharjah · SNOC | 2026 |
 | 🤖 | **Participant** | Arduino UNO Q x Qualcomm Hackathon — SmartDesk OS | Hackster.io · Qualcomm | 2026 |
@@ -222,11 +223,12 @@ Built for Campfire Dubai x HackClub. A browser-based horror game set in the deep
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abolambA&show_icons=true&theme=dark&bg_color=060810&border_color=1a2035&title_color=22d3ee&icon_color=f59e0b&text_color=cbd5e1&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abolambA&layout=compact&theme=dark&bg_color=060810&border_color=1a2035&title_color=22d3ee&text_color=cbd5e1&langs_count=8)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abolambA&theme=dark&background=060810&border=1a2035&ring=22d3ee&fire=f59e0b&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22d3ee&sideLabels=cbd5e1&dates=94a3b8)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abolambA&theme=github_dark)
+
+![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abolambA&theme=github_dark)
+![Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abolambA&theme=github_dark)
 
 </div>
 
@@ -252,6 +254,7 @@ Built for Campfire Dubai x HackClub. A browser-based horror game set in the deep
 |---|---|---|
 | 🌐 | Portfolio | [nihad.codes](https://nihad.codes) |
 | 💼 | LinkedIn | [linkedin.com/in/mo-nihad-alsufe](https://linkedin.com/in/mo-nihad-alsufe) |
+| 🟢 | Google Developers | [developers.google.com/profile](https://developers.google.com/profile/u/111775667214271682823) |
 | 📧 | Email | [nihadalsufe@gmail.com](mailto:nihadalsufe@gmail.com) |
 | 🧠 | Organic Vision | [ovm.ae](https://ovm.ae) |
 | 🧩 | SpeedCubeHub | [speedcubehub.store](https://speedcubehub.store) |
