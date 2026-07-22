@@ -22,7 +22,7 @@
 
 ## 👤 Who I Am
 
-I'm **Mohamad Nihad Alsufe** — a 16-year-old entrepreneur, full-stack developer, and competitive speedcuber based in **Sharjah, UAE** 🇦🇪, originally from **Homs, Syria** 🇸🇾.
+I'm **Mohamad Nihad Alsufe** — a 17-year-old entrepreneur, full-stack developer, and competitive speedcuber based in **Sharjah, UAE** 🇦🇪, originally from **Homs, Syria** 🇸🇾.
 
 At an age when most people are figuring out what they want to do, I've already built **two operating companies**, led a school tech team to **national competition wins**, shipped AI products used by real users, won a **UAE Ministry of Education national championship**, placed **2nd at the Safe AI Cup 2026**, and earned a **Gold Medal at Innovation Nation 2026** — competing at the Arab regional level.
 
